@@ -16,8 +16,8 @@ WriteMakefile(
         'Test::More' => 0,
     },
     AUTHOR         => [
-        'Gonzalo Diethelm (gonzus@cpan.org)',
-        'Sawyer X (xsawyerx@cpan.org)',
+        'Gonzalo Diethelm (gonzalo.diethelm@gmail.com)',
+        'Sawyer X (xsawyerx@gmail.com)',
     ],
     LIBS           => [''],
 #    DEFINE         => '-DGMEM_CHECK',
